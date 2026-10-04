@@ -1,4 +1,4 @@
-# Hi, I'm Noor 👋
+# Hi! I'm Noor 
 
 I'm a Machine Learning Engineer in Toronto building LLM applications and production ML services.
 
@@ -12,8 +12,6 @@ I'm particularly interested in:
 - **[AmblyoPal](https://apps.apple.com/us/app/amblyopal-vision-games/id6760631152)** — Vision training app with games designed for use with anaglyph glasses. Available on the App Store.
 
 - **[Mandarin Tales](https://apps.apple.com/us/app/mandarin-tales-learn-chinese/id6747924771)** — Interactive Chinese stories designed to make language learning more engaging. Available on the App Store.
-
-↓ Check out my pinned repositories below.
 
 ### Outside of work
 
