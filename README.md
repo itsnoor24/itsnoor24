@@ -9,9 +9,9 @@ I'm particularly interested in:
 
 ### Featured Projects
 
-- **[AmblyoPal](https://apps.apple.com/us/app/amblyopal-vision-games/id6760631152)** — Vision training app with games designed for use with anaglyph glasses. Available on the App Store.
+- **[AmblyoPal](https://apps.apple.com/us/app/amblyopal-vision-games/id6760631152)** — Vision training app with games designed for use with anaglyph glasses.
 
-- **[Mandarin Tales](https://apps.apple.com/us/app/mandarin-tales-learn-chinese/id6747924771)** — Interactive Chinese stories designed to make language learning more engaging. Available on the App Store.
+- **[Mandarin Tales](https://apps.apple.com/us/app/mandarin-tales-learn-chinese/id6747924771)** — Interactive Chinese stories designed to make language learning more engaging. 
 
 ### Outside of work
 
