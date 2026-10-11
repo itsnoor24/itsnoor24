@@ -1,10 +1,10 @@
 # Hi! I'm Noor 
 
-I'm a Machine Learning Engineer in Toronto building LLM applications and production ML services.
+I'm a Machine Learning Engineer in Toronto building LLM applications / ML services.
 
 I'm particularly interested in:
-- 🤖 LLM applications and AI-powered backend services
-- 🔌 APIs, distributed systems, and production infrastructure
+- 🔌 Backend engineering, APIs, and distributed systems
+- ⚙️ MLOps and production ML infrastructure
 - 📊 ML evaluation, monitoring, and observability
 
 ### Featured Projects
@@ -15,6 +15,6 @@ I'm particularly interested in:
 
 ### Outside of work
 
-- 🌏 Backpacking & exploring new countries
-- 🍵 Matcha enthusiast
-- 📚 Learning Mandarin Chinese 
+- Backpacking & exploring new countries
+- Matcha enthusiast
+- Learning Mandarin Chinese 
